@@ -1,10 +1,13 @@
 # couponsEDA
 UC Berkley
-Post Graduate Program in AI and Machine Learning
-Assignment 5.1: Will the Customer Accept the Coupon?
-Student Name : Rahul Tantak
-This work represents the graded assignment delivered by
 
+Post Graduate Program in AI and Machine Learning
+
+Assignment 5.1: Will the Customer Accept the Coupon?
+
+Student Name : Rahul Tantak
+
+This work represents the graded assignment delivered by
 Rahul Tantak
 Course Instructor :
 Piyush Athawale
