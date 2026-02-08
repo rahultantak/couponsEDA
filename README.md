@@ -9,8 +9,10 @@ Student Name : Rahul Tantak
 
 This work represents the graded assignment delivered by
 Rahul Tantak
+
 Course Instructor :
 Piyush Athawale
+
 Assignment details
 The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not.
 
